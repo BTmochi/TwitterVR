@@ -1,0 +1,21 @@
+{
+    "path": {
+        "vrx": "C:\\xxx\\xxx\\vrx.exe",
+        "voiceroid": "D:\\xxx\\xxx\\X\\VOICEROID.exe"
+    },
+    "api": {
+        "ck": "xxx",
+        "cs": "xxx",
+        "at": "xxx",
+        "as": "xxx"
+    },
+    "NG": {
+        "word": ["RT @"],
+        "client": ["ツイ廃ジャー"],
+        "user_id": ["1919810", "114514"],
+        "user_screen_name": ["tadokoro", "kouji"]
+    },
+    "re": {
+        "(https?|ftp)(:\/\/[-_\\.!~*\\'()a-zA-Z0-9;\/?:\\@&=\\+\\$,%#]+)": "URL省略"
+    }
+}
